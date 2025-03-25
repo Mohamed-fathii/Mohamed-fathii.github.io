@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 Hi, I’m Mohamed Fathelrahman, a passionate and detail-oriented Computer Science graduate with a strong focus on frontend development. I specialize in building responsive, user-friendly, and visually appealing web applications using modern technologies like JavaScript and React",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "E-commerce app",
+      "startDate": "2024",
+      "description": "This E-Commerce App is a full-stack web application designed to simulate an online shopping experience And it includes a feature for adding products by authorized users. built with React + Firebase.",
+      "images": [
+        "images/portfolio//E-commerce-app/E-commerce-app-store-page.jpg",
+        "images/portfolio//E-commerce-app/E-commerce-app-cart-page.jpg",
+        "images/portfolio//E-commerce-app/E-commerce-app-admin-page.jpg"
+      ],
+      "url": "https://Mohamed-fathii.github.io/E-commerce-website",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": " JavaScript"
+        }
+      ]
+    }
+  ],
+
+  "experience": [{}, {}]
+}
